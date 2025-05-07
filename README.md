@@ -1,3 +1,3 @@
 # Final-Project
 
-This is my final project for computer technologies. 
+This is for my final project for computer technologies. 

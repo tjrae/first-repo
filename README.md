@@ -1,3 +1,3 @@
 # Final-Project
 
-This is for my final project for computer technologies. 
+This is the repository for my final project in my computer technologies class. 

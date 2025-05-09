@@ -14,10 +14,17 @@ Timeline of Programing
 
 Sources:
 History of Python | GeeksforGeeks
+
 History of Linux [A Complete Overview] - LinuxSimply
+
 Alan Turing: Creator of modern computing - BBC Bitesize
+
 What is a Computer Program? | GeeksforGeeks
+
 Ada Lovelace | Biography, Computer, & Facts | Britannica
+
 What is Linux? - Linux.com
+
 Computer Programming History
+
 Programming Trends 2025: Insights and Predictions | Aegona

@@ -14,18 +14,14 @@ Timeline of Programing
 
 Sources:
 
-History of Python | GeeksforGeeks
+https://www.geeksforgeeks.org/history-of-python/
 
-History of Linux [A Complete Overview] - LinuxSimply
+https://linuxsimply.com/linux-basics/introduction/history-of-linux/
 
-Alan Turing: Creator of modern computing - BBC Bitesize
+https://www.bbc.co.uk/teach/articles/zhwp7nb
 
-What is a Computer Program? | GeeksforGeeks
+https://www.linux.com/
 
-Ada Lovelace | Biography, Computer, & Facts | Britannica
+https://www.computerhope.com/history/programming.htm
 
-What is Linux? - Linux.com
-
-Computer Programming History
-
-Programming Trends 2025: Insights and Predictions | Aegona
+https://www.aegona.com/software-development/programming-trends-2025-insights-and-predictions
